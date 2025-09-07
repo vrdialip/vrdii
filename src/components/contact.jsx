@@ -17,7 +17,6 @@ const contacts = [
     subtitle: "Location & Website",
     items: [
       { icon: <MapPin size={18} />, text: "Depok, Indonesia" },
-      { icon: <Globe size={18} />, text: "vrdii.vercel.app", link: "vrdii.vercel.app" },
     ],
     button: {
       icon: <MessageCircle size={18} />,
