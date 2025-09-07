@@ -9,7 +9,7 @@ const contacts = [
     subtitle: "Social Media",
     items: [
       { icon: <Instagram size={18} />, text: "@vrdiialipp", link: "https://instagram.com/vrdiialipp" },
-      { icon: <Github size={18} />, text: "vrdialip", link: "https://github.com/verdi-code" },
+      { icon: <Github size={18} />, text: "vrdialip", link: "https://github.com/vrdialip" },
     ],
   },
   {
@@ -17,7 +17,7 @@ const contacts = [
     subtitle: "Location & Website",
     items: [
       { icon: <MapPin size={18} />, text: "Depok, Indonesia" },
-      { icon: <Globe size={18} />, text: "vrdi.vercel.app", link: "https://www.example.com" },
+      { icon: <Globe size={18} />, text: "vrdii.vercel.app", link: "vrdii.vercel.app" },
     ],
     button: {
       icon: <MessageCircle size={18} />,

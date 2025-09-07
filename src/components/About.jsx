@@ -60,8 +60,7 @@ const About = () => {
                 />
                 <h3>My Team</h3>
                 <p>
-                  We are a small development team from SMK YAJ Depok, passionate about
-                  building innovative and creative digital solutions together.
+                  We are Local Grow, a small development team from SMK YAJ Depok, passionate about building innovative and creative digital solutions together.
                 </p>
               </div>
             )}
