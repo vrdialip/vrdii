@@ -14,7 +14,7 @@ const contacts = [
   },
   {
     title: "Contact Info",
-    subtitle: "Location & Website",
+    subtitle: "Location",
     items: [
       { icon: <MapPin size={18} />, text: "Depok, Indonesia" },
     ],
